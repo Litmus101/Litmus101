@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Litmus101
-- 👀 I’m interested in ... development ![Screenshot_20240920-025804](https://github.com/user-attachments/assets/147b549a-7817-435c-a691-a21a19fcdb89)
+- 👀 I’m interested in ... development !(https://github.com/user-attachments/assets/147b549a-7817-435c-a691-a21a19fcdb89)
 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
